@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am graduate computer science student at University of Illinois Urbana-Champaign, passionate about Full-Stack Development and building scalable, and robust applications.
+I am Graduate Computer Science student at the University of Illinois Urbana-Champaign, passionate about Full-Stack Development and building scalable, and robust applications.
 
 
 ## 🌐 Socials:

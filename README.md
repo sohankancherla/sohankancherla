@@ -4,12 +4,9 @@
 I am Graduate Computer Science student at the University of Illinois Urbana-Champaign, passionate about Full-Stack Development and building scalable, and robust applications.
 
 # 🚀 What I'm Up To
-#### What I'm working on:
-- [Fullstack Documentation Hub](https://fullstackdocumentationhub.netlify.app/) (still a work in progress)
-#### What I'm learning right now:
-- React
-#### What I'm learning next:
-- Node.js with Express
+🔭 I'm currently working on [Fullstack Documentation Hub](https://github.com/sohankancherla/fullstack-documentation-hub) (still a work in progress)\
+🌱 I'm currenlty learning React\
+🔍 I'm looking to learn Node.js with Express next
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-kancherla)

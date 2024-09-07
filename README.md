@@ -6,7 +6,7 @@ I am Graduate Computer Science student at the University of Illinois Urbana-Cham
 # 🚀 What I'm Up To
 🔭 I'm currently working on Pixolve (still a work in progress)\
 🌱 I'm currenlty learning Typescript and Next.js\
-🔍 I'm looking to learn Authentication
+🔍 I'm looking to learn Authentication next
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-kancherla)

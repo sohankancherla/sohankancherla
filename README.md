@@ -4,7 +4,7 @@
 I am Graduate Computer Science student at the University of Illinois Urbana-Champaign, passionate about Full-Stack Development and building scalable, and robust applications. Check out my [portfolio](https://sohankancherla.vercel.app) to learn more about me!
 
 # 🚀 What I'm Up To
-🔭 I'm currently working on Pixolve (still a work in progress)\
+🔭 I'm currently working on Pixolve\
 🌱 I'm currenlty learning Typescript and Next.js\
 🔍 I'm looking to learn Authentication next
 
